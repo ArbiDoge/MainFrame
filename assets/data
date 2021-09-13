@@ -1,0 +1,20 @@
+<svg width="109" height="20" viewBox="0 0 1090 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="MythX: passed">
+  <title>MythX: passed</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="1090" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="606" height="200" fill="#555"/>
+    <rect width="484" height="200" fill="#3C1" x="606"/>
+    <rect width="1090" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="220" y="148" textLength="346" fill="#000" opacity="0.25">MythX</text>
+    <text x="210" y="138" textLength="346">MythX</text>
+    <text x="661" y="148" textLength="384" fill="#000" opacity="0.25">passed</text>
+    <text x="651" y="138" textLength="384">passed</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA3MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTU5Ljk3IDI5Ljg2OTRINTAuMTAwNlYzOS43Mzg4SDU5Ljk3VjI5Ljg2OTRaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNTAuMTAwNiAwLjI0ODkwMVYxMC4xMzA2SDQwLjIxODlWMjkuODY5NEg1MC4xMDA2VjIwSDU5Ljk3VjEwLjEzMDZINjkuODM5NFYwLjI0ODkwMUg1MC4xMDA2WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTQwLjIxODkgMjkuODY5NEgzMC4zNDk1VjM5LjczODhINDAuMjE4OVYyOS44Njk0WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTMwLjM0OTUgMTAuMTMwNkgyMC40ODAxVjAuMjQ4OTAxSDAuNzI5MDA0VjEwLjEzMDZIMTAuNjEwN1YyMEgyMC40ODAxVjI5Ljg2OTRIMzAuMzQ5NVYxMC4xMzA2WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTIwLjQ4MDEgMjkuODY5NEgxMC42MTA3VjM5LjczODhIMjAuNDgwMVYyOS44Njk0WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg=="/>
+</svg>
